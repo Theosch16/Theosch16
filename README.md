@@ -4,7 +4,7 @@ Je suis un développeur passionné par l’intelligence artificielle, le machine
 
 🔧 Compétences :
 
-🧠 IA / Machine Learning (scikit-learn, XGBoost, LLMs, etc.)
+🧠 IA / Machine Learning (scikit-learn, etc.)
 
 📊 Data Science (Pandas, NumPy, Matplotlib, Seaborn)
 
