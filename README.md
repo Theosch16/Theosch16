@@ -8,10 +8,6 @@ Je suis un développeur passionné par l’intelligence artificielle, le machine
 
 📊 Data Science (Pandas, NumPy, Matplotlib, Seaborn)
 
-🤖 Deep Learning (TensorFlow, PyTorch)
-
-🌐 APIs & intégrations (FastAPI, Flask)
-
 🗃️ Bases de données (SQL)
 
 💻 Front-end (HTML, CSS, JavaScript)
