@@ -11,4 +11,8 @@ Transformer les données en solutions intelligentes et concrètes, à l’aide d
 - Front-end (HTML, CSS, JavaScript, React, Boostrap)
 - Backend (Docker, Django)
 
+## Mon Portfolio : ##
+
+https://theosch16.github.io/portfolio/
+
 Toujours curieux d’échanger autour des sujets IA, data ou tech en général.
