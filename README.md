@@ -7,8 +7,11 @@ Transformer les données en solutions intelligentes et concrètes, à l’aide d
 ## Compétences : ##
 
 Data Science (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+
 Bases de données (SQL, PostgreSQL)
+
 Front-end (HTML, CSS, JavaScript, React, Boostrap)
+
 Backend (Docker, Django)
 
 Toujours curieux d’échanger autour des sujets IA, data ou tech en général.
