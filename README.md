@@ -1,4 +1,4 @@
-Je suis un développeur passionné par l’intelligence artificielle, le machine learning et la data science.
+Développeur passionné par l’intelligence artificielle, le Machine Learning et la data science.
 
 ## Mon objectif ##
 
@@ -14,5 +14,3 @@ Transformer les données en solutions intelligentes et concrètes, à l’aide d
 ## Mon Portfolio ##
 
 https://theosch16.github.io/portfolio/
-
-Toujours curieux d’échanger autour des sujets IA, data ou tech en général.
